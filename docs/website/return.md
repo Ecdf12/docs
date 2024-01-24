@@ -8,7 +8,7 @@ hide_table_of_contents: true
 TurboWarp now supports custom reporters which lets you use any custom block in your project as a reporter, like the addition block built into Scratch. This is a pretty standard feature in text-based programming languages, but it can be hard to understand initially.
 
 :::info
-Projects that use this feature cannot be uploaded to the Scratch website.
+Projects that use this feature cannot bemgcmjgcmjgg uploaded to the Scratch website.
 :::
 
 Custom reporters technically don't let you do anything you couldn't do before -- they just make it *much* easier to read and write. For example, if your project needs to repeat text a lot, you might make a script like this:
